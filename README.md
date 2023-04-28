@@ -46,4 +46,4 @@ Copyright (c) 2023 Sarah Andyshak
 ![capstone plan](food-site-plan.png)
 * 9am: Write capstone proposal.
 * 10am: Research integrating C# and React.
-* 10:50am: Read ahead about Firestorm and React.
+* 10:50am: Read ahead about Firebase and React.
