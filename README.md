@@ -1,15 +1,15 @@
 # In-Season Food Finder -- Work in Progress, title pending
 
-### A site that helps users find information about when fruits and vegetables are in season, recipes using selected fruits and vegetables, and where to find local farmers markets. 
+#### A site that helps users find information about when fruits and vegetables are in season, recipes using selected fruits and vegetables, and where to find local farmers markets. 
 
 ### By: Sarah Andyshak
 
-#### [Known Bugs](#known-bugs)
-#### [License](#license)
-#### [Research Points](#research-points)
+#### 🍋 [Known Bugs](#known-bugs)
+#### 🍒 [License](#license)
+#### 🥦 [Research Points](#research-points)
 ##### • [Project specific](#project-specific)
 ##### • [Future research](#future-research-or-if-time-today)
-#### [Research Log](#research-and-planning-log)
+#### 🍇 [Research Log](#research-and-planning-log)
 
 ### Known Bugs:
 
@@ -25,10 +25,10 @@ Copyright (c) 2023 Sarah Andyshak
 
 ## Research points:
 - [x] How do C# and React work together -- seems to be based on writing C# APIs
-* Is one better than the other for this project
-* APIs and React
-* Look into Firebase
-* How does navigation work in React
+- [x] Is one better than the other for this project -- seems like React will be better
+- [] APIs and React
+- [] Look into Firebase
+- [] How does navigation work in React
 - [x] Is C# or React more used by front end -- React is far and away used by frontend
 
 ### Project specific:
@@ -48,3 +48,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 10am: Research integrating C# and React.
 * 10:50am: Read ahead about Firebase and React.
 * 11:15am: Break from reading to watch [tutorial on React](https://www.youtube.com/watch?v=b9eMGE7QtTk&list=PLWJHBbgEE85zkXzrgQ9fcHdvw4rH4Cx_U&index=4&ab_channel=JavaScriptMastery).
+* 2pm: Return to reading ahead about Firebase and React.
