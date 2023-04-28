@@ -8,7 +8,7 @@
 #### Friday, 28 April 2023
 * Key issue to resolve today: write in C# or React; or both. 
 
-#### Research points:
+### Research points:
 * How do C# and React work together
 * Is one better than the other for this project
 * APIs and React
@@ -29,3 +29,4 @@
 * 8am: set up project, lay out key areas of research
 * 8:30am: set up [Figma project for planning](https://www.figma.com/file/ZEGbWcXC5QjQC8gzE0UkQT/In-Season-Food-Capstone?node-id=0%3A1&t=v0GHrqAo6qvnaWos-1)
 ![capstone plan](food-site-plan.png)
+* 9am: Write capstone proposal.
