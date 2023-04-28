@@ -28,9 +28,9 @@ Copyright (c) 2023 Sarah Andyshak
 
 - [x] How do C# and React work together -- seems to be based on writing C# APIs
 - [x] Is one better than the other for this project -- seems like React will be better
+- [ ] Look into Firebase, Firestore
 - [ ] APIs and React
-- [ ] Look into Firebase
-- [ ] How does navigation work in React
+- [ ] How does navigation work in React -- separate pages, or just views in the virtual DOM
 - [x] Is C# or React more used by front end -- React is far and away used by frontend
 
 ### Project specific:
@@ -48,6 +48,7 @@ Copyright (c) 2023 Sarah Andyshak
 ![capstone plan](food-site-plan.png)
 * 9am: Write capstone proposal.
 * 10am: Research integrating C# and React.
-* 10:50am: Read ahead about Firebase and React.
+* 10:50am: Read ahead about Firebase, Firestore and React.
 * 11:15am: Break from reading to watch [tutorial on React](https://www.youtube.com/watch?v=b9eMGE7QtTk&list=PLWJHBbgEE85zkXzrgQ9fcHdvw4rH4Cx_U&index=4&ab_channel=JavaScriptMastery).
 * 2pm: Return to reading ahead about Firebase and React.
+* 2:30pm: research APIs for recipes, farmers markets, and seasonality.
