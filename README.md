@@ -20,15 +20,17 @@ Enjoy the site! If you have questions or suggestions, please contact me!
 
 Copyright (c) 2023 Sarah Andyshak
 
+
+## Research points:
+
 #### Friday, 28 April 2023
 * Key issue to resolve today: write in C# or React; or both. 
 
-## Research points:
 - [x] How do C# and React work together -- seems to be based on writing C# APIs
 - [x] Is one better than the other for this project -- seems like React will be better
-- [] APIs and React
-- [] Look into Firebase
-- [] How does navigation work in React
+- [ ] APIs and React
+- [ ] Look into Firebase
+- [ ] How does navigation work in React
 - [x] Is C# or React more used by front end -- React is far and away used by frontend
 
 ### Project specific:
