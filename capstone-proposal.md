@@ -3,7 +3,7 @@
 ### Name of Project: In-Season Food Finder (need something catchier)
 
 ### Project's Purpose or Goal:
-A friend requested this site with a lot of specifics and I thought it was a great idea. The splash page will have fruits and vegetables, my friend requested that they be arranged like a color wheel (this will take research into best placement method). If you click on an item, it will take you to a page with information about when it is in season. My friend also requested links to recipes and local farmers markets, and I think I can incorporate some form of all of these requests.
+* A friend requested this site with a lot of specifics and I thought it was a great idea. The splash page will have fruits and vegetables, my friend requested that they be arranged like a color wheel (this will take research into best placement method). If you click on an item, it will take you to a page with information about when it is in season. My friend also requested links to recipes and local farmers markets, and I think I can incorporate some form of all of these requests.
 
 ### List the absolute minimum features the project requires to meet this purpose or goal:
 * Splash page with fruits and vegetables
@@ -23,7 +23,7 @@ A friend requested this site with a lot of specifics and I thought it was a grea
 * Using Identity Framework to create a personalized experience -- if C# is part of the project.
 
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-I'm not really sure yet, I'm researching integrating C# and React today (4/28/23) and will be reading about APIs and React, and Firestorm.
+* I'm researching integrating C# and React today (4/28/23) and will be reading about APIs and React, and Firestorm.
 
 #### Is there anything else you'd like your instructor to know?
-I'd like feedback on any thoughts about technology that would be most conducive to this project!
+* I'd like feedback on any thoughts about technology that would be most conducive to this project!
