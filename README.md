@@ -47,3 +47,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 9am: Write capstone proposal.
 * 10am: Research integrating C# and React.
 * 10:50am: Read ahead about Firebase and React.
+* 11:15am: Break from reading to watch [tutorial on React](https://www.youtube.com/watch?v=b9eMGE7QtTk&list=PLWJHBbgEE85zkXzrgQ9fcHdvw4rH4Cx_U&index=4&ab_channel=JavaScriptMastery).
