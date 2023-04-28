@@ -14,7 +14,7 @@
 #### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 * C# and/or React. Currently researching which would be best and how they might be combined.
 * HTML, CSS, probably Bootstrap for styling.
-* APIs:Google Maps OR Department of Agriculture for locating farmers markets; pre-built or create one for recipes -- if I decide not to do this, then I may link to recipe sites -- to be researched.
+* APIs: Google Maps OR Department of Agriculture for locating farmers markets; pre-built or create one for recipes -- if I decide not to do this, then I may link to recipe sites -- to be researched. I may need to create an API for in-season information.
 
 #### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * Depending on how the build goes, APIs may fall into this category.

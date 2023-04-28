@@ -1,9 +1,24 @@
-# In Season Food site -- title pending
+# In-Season Food Finder -- Work in Progress, title pending
 
+### A site that helps users find information about when fruits and vegetables are in season, recipes using selected fruits and vegetables, and where to find local farmers markets. 
+
+### By: Sarah Andyshak
+
+#### [Known Bugs](#known-bugs)
+#### [License](#license)
 #### [Research Points](#research-points)
 ##### • [Project specific](#project-specific)
 ##### • [Future research](#future-research-or-if-time-today)
 #### [Research Log](#research-and-planning-log)
+
+### Known Bugs:
+
+### License:
+Enjoy the site! If you have questions or suggestions, please contact me!
+
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+
+Copyright (c) 2023 Sarah Andyshak
 
 #### Friday, 28 April 2023
 * Key issue to resolve today: write in C# or React; or both. 
@@ -30,4 +45,5 @@
 * 8:30am: set up [Figma project for planning](https://www.figma.com/file/ZEGbWcXC5QjQC8gzE0UkQT/In-Season-Food-Capstone?node-id=0%3A1&t=v0GHrqAo6qvnaWos-1)
 ![capstone plan](food-site-plan.png)
 * 9am: Write capstone proposal.
-* 9:30am: Research integrating C# and React (part 1).
+* 10am: Research integrating C# and React.
+* 10:50am: Read ahead about Firestorm and React.
