@@ -12,7 +12,7 @@
 * Link to at least one farmers market
 
 #### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
-* C# and/or React. Currently researching which would be best and how they might be combined.
+* Researched combining React and C#, and it seems like using React with NoSQL and Firebase will be the best choice; or just creating an MVC.
 * HTML, CSS, probably Bootstrap for styling.
 * APIs: Google Maps OR Department of Agriculture for locating farmers markets; pre-built or create one for recipes -- if I decide not to do this, then I may link to recipe sites -- to be researched. I may need to create an API for in-season information.
 
@@ -23,7 +23,7 @@
 * Using Identity Framework to create a personalized experience -- if C# is part of the project.
 
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-* I'm researching integrating C# and React today (4/28/23) and will be reading about APIs and React, and Firestorm.
+* Currently unknown, 4/28/23: researching pros and cons of React with NoSQL and Firebase vs MVC with C#.
 
 #### Is there anything else you'd like your instructor to know?
-* I'd like feedback on any thoughts about technology that would be most conducive to this project!
+* I'd like feedback on any thoughts about technology that would be most conducive to this project! I'm not sure at this point if I should be using individual pages linked through C#, or if it's better to use React to create a dynamic page -- I'm not sure if it would do what I want.

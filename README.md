@@ -24,12 +24,12 @@ Copyright (c) 2023 Sarah Andyshak
 * Key issue to resolve today: write in C# or React; or both. 
 
 ## Research points:
-* How do C# and React work together
+- [x] How do C# and React work together -- seems to be based on writing C# APIs
 * Is one better than the other for this project
 * APIs and React
-* Look into Firestorm
+* Look into Firebase
 * How does navigation work in React
-* Is C# or React more used by front end
+- [x] Is C# or React more used by front end -- React is far and away used by frontend
 
 ### Project specific:
 * Google maps API or Dept of Agriculture's API for farmer's market locations
