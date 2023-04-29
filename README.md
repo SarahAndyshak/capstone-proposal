@@ -29,7 +29,7 @@ Copyright (c) 2023 Sarah Andyshak
 - [x] How do C# and React work together -- seems to be based on writing C# APIs
 - [x] Is one better than the other for this project -- seems like React will be better
 - [x] Look into Firebase, Firestore
-- [ ] APIs and React
+- [x] APIs and React
 - [ ] How does navigation work in React -- separate pages, or just views in the virtual DOM
 - [x] Is C# or React more used by front end -- React is far and away used by frontend
 
@@ -56,3 +56,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 4pm: create first version of the React app layout plan.
 ![React app layout](ReactLayout.png)
 * 4:15pm: more reading.
+* 5pm: finish reading for the day, final commit.
