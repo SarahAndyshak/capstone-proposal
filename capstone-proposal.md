@@ -20,6 +20,7 @@
 #### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * Depending on how the build goes, incorporating or creating APIs may fall into this category.
 * Getting fruits and vegetables placed as a color wheel and acting as links.
+* Build out site so there are many fruits and vegetables to access.
 * Including some sort of animation.
 * Using Identity Framework to create a personalized experience -- if C# is part of the project.
 
