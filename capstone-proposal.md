@@ -14,10 +14,11 @@
 #### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 * Researched combining React and C#, and it seems like using React with NoSQL and Firestore will be the best choice; or just creating an MVC.
 * HTML, CSS, probably Bootstrap for styling.
+* Procreate to format images to use as links.
 * APIs: Google Maps OR Department of Agriculture for locating farmers markets; pre-built or create one for recipes -- if I decide not to do this, then I may link to recipe sites -- to be researched. I may need to create an API for in-season information.
 
 #### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-* Depending on how the build goes, APIs may fall into this category.
+* Depending on how the build goes, incorporating or creating APIs may fall into this category.
 * Getting fruits and vegetables placed as a color wheel and acting as links.
 * Including some sort of animation.
 * Using Identity Framework to create a personalized experience -- if C# is part of the project.
