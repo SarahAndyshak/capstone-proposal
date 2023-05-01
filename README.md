@@ -57,3 +57,6 @@ Copyright (c) 2023 Sarah Andyshak
 ![React app layout](ReactLayout.png)
 * 4:15pm: more reading.
 * 5pm: finish reading for the day, final commit.
+
+#### Sunday, 30 April 2023
+* approx. 3-6pm: select images, clean images, create color wheel.
