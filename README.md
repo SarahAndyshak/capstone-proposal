@@ -60,3 +60,6 @@ Copyright (c) 2023 Sarah Andyshak
 
 #### Sunday, 30 April 2023
 * approx. 3-6pm: select images, clean images, create color wheel.
+
+#### Friday, 5 May 2023
+* 8am: review API projects and lessons.
