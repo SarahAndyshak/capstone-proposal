@@ -67,3 +67,5 @@ Copyright (c) 2023 Sarah Andyshak
 * 9am: got API key, testing API in Postman gives a 403 Forbidden error, need to ask about this. Update- after researching, contacted the provided email account.
 * 9:30am: begin initial setup of React site.
 * 11:14am: brainstorming how a C# API would connect.
+* 1:30pm: trying to follow object placement tutorial again.
+* 2:15pm: begin work on C# API.
