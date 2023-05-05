@@ -63,4 +63,5 @@ Copyright (c) 2023 Sarah Andyshak
 
 #### Friday, 5 May 2023
 * 8am: review API projects and lessons.
-* 8:45am: test DoA API in Postman, look up updating stats.
+* 8:45am: test USDA API in Postman, look up updating stats.
+* 9am: got API key, testing API in Postman gives a 403 Forbidden error, need to ask about this. Update- after researching, contacted the provided email account.
