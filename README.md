@@ -63,3 +63,4 @@ Copyright (c) 2023 Sarah Andyshak
 
 #### Friday, 5 May 2023
 * 8am: review API projects and lessons.
+* 8:45am: test DoA API in Postman, look up updating stats.
