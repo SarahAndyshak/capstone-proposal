@@ -77,3 +77,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 10am: research how to create API "contains" or "includes" type queries.
 * 11am: update README for API. Need to revisit why images aren't showing up.
 * 11:40am: solved issue, cleaned up API README.
+* 1pm: working on React seasonal-foods app, getting routing import statements correct, setting up logic in FoodList and FoodDetail.
