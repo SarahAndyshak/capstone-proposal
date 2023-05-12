@@ -69,3 +69,7 @@ Copyright (c) 2023 Sarah Andyshak
 * 11:14am: brainstorming how a C# API would connect.
 * 1:30pm: trying to follow object placement tutorial again.
 * 2:15pm: begin work on C# API.
+
+#### Friday, 12 May 2023
+* 8am: review project so far.
+* 9am: update API to disable nullable, add pagination, add CORS policy, and update migrations.
