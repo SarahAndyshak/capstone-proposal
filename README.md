@@ -73,3 +73,4 @@ Copyright (c) 2023 Sarah Andyshak
 #### Friday, 12 May 2023
 * 8am: review project so far.
 * 9am: update API to disable nullable, add pagination, add CORS policy, and update migrations.
+* 10am: research how to create API "contains" or "includes" type queries.
