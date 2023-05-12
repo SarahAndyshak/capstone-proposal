@@ -46,6 +46,7 @@ Copyright (c) 2023 Sarah Andyshak
 * 8am: set up project, lay out key areas of research
 * 8:30am: set up [Figma project for planning](https://www.figma.com/file/ZEGbWcXC5QjQC8gzE0UkQT/In-Season-Food-Capstone?node-id=0%3A1&t=v0GHrqAo6qvnaWos-1)
 ![capstone plan](food-site-plan.png)
+
 * 9am: Write capstone proposal.
 * 10am: Research integrating C# and React.
 * 10:50am: Read ahead about Firebase, Firestore and React.
@@ -74,3 +75,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 8am: review project so far.
 * 9am: update API to disable nullable, add pagination, add CORS policy, and update migrations.
 * 10am: research how to create API "contains" or "includes" type queries.
+* 11am: update README for API. Need to revisit why images aren't showing up.
