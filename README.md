@@ -82,4 +82,5 @@ Copyright (c) 2023 Sarah Andyshak
 * 4:30-6pm: successfully link images to the correct FoodDetail pages. Take time to choose font, begin basic styling before taking next steps.
 
 #### Monday, 15 May 2023
-* 1:15-2:30pm: Add recipes to Recipes.js page.
+* 1:15pm: Add recipes to Recipes.js page.
+* 2:30pm: Attempt to get images to enlarge when hovered over.
