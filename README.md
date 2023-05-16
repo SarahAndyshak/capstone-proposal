@@ -86,3 +86,6 @@ Copyright (c) 2023 Sarah Andyshak
 * 2:30pm: Attempt to get images to enlarge when hovered over.
 * 3:45: Add links from Recipe page back to Details page.
 * 4:30pm: Fix App plan image for README, update README in seasonal-food app.
+
+#### Tuesday, 16 May 2023
+* 8am: debating how best to spend my time: build out more functions in React, or host C# API. Part of the debate is if I should shift the API onto Firebase.
