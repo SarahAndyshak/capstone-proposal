@@ -89,3 +89,4 @@ Copyright (c) 2023 Sarah Andyshak
 
 #### Tuesday, 16 May 2023
 * 8am: debating how best to spend my time: build out more functions in React, or host C# API. Part of the debate is if I should shift the API onto Firebase.
+* 10:30: Finish styling Recipes.js page, being looking at adding USDA Farmers Market API.
