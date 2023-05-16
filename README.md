@@ -85,3 +85,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 1:15pm: Add recipes to Recipes.js page.
 * 2:30pm: Attempt to get images to enlarge when hovered over.
 * 3:45: Add links from Recipe page back to Details page.
+* 4:30pm: Fix App plan image for README, update README in seasonal-food app.
