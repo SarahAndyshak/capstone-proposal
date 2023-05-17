@@ -100,3 +100,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 10:50am finish updating READMEs, screenshots.
 * to noon: read about hosting options.
 * after lunch: read about hosting, work on hosting API to Azure.
+* until 3:40pm: set up connection with Azure.
