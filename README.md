@@ -30,7 +30,7 @@ Copyright (c) 2023 Sarah Andyshak
 - [x] Is one better than the other for this project -- seems like React will be better
 - [x] Look into Firebase, Firestore
 - [x] APIs and React
-- [ ] How does navigation work in React -- separate pages, or just views in the virtual DOM
+- [x] How does navigation work in React -- separate pages, or just views in the virtual DOM
 - [x] Is C# or React more used by front end -- React is far and away used by frontend
 
 ### Project specific:
@@ -97,3 +97,5 @@ Copyright (c) 2023 Sarah Andyshak
 #### Wednesday 17 May 2023
 * 8am: fix issue with links on Recipes.js
 * 9am: start stretch goal-- looking at USDA farmers market API and how to incorporate it/ reading about hosting.
+* 10:50am finish updating READMEs, screenshots.
+* to noon: read about hosting options.
