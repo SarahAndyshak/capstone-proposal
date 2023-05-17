@@ -99,3 +99,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 9am: start stretch goal-- looking at USDA farmers market API and how to incorporate it/ reading about hosting.
 * 10:50am finish updating READMEs, screenshots.
 * to noon: read about hosting options.
+* after lunch: read about hosting, work on hosting API to Azure.
