@@ -96,3 +96,4 @@ Copyright (c) 2023 Sarah Andyshak
 
 #### Wednesday 17 May 2023
 * 8am: fix issue with links on Recipes.js
+* 9am: start stretch goal-- looking at USDA farmers market API and how to incorporate it/ reading about hosting.
