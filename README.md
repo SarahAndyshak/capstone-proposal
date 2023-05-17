@@ -92,3 +92,4 @@ Copyright (c) 2023 Sarah Andyshak
 * 10:30: Finish styling Recipes.js page, being looking at adding USDA Farmers Market API.
 * 11:34: Working on adding a SeasonalSearch.js page to list foods by harvest season.
 * 1-2:30: Add Seasons pages and routing.
+* 2:30-5pm: Find and format additional images, add hover and link functions to more images; check in with other students about issues.
