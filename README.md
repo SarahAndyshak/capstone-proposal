@@ -101,3 +101,7 @@ Copyright (c) 2023 Sarah Andyshak
 * to noon: read about hosting options.
 * after lunch: read about hosting, work on hosting API to Azure.
 * until 3:40pm: set up connection with Azure.
+
+#### Thursday 18 May 2023
+* 8am: continue working on Azure hosting.
+* 10am: API is hosted to Azure. Update endpoints in React app.
